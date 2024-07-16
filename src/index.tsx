@@ -31,7 +31,7 @@ const VendettaCompat: Plugin = {
       // basedetta urldetta odetta vendetta
       const url = customVendettaURL?.enabled
          ? customVendettaURL.url
-         : "https://raw.githubusercontent.com/vendetta-mod/builds/master/vendetta.js"
+         : "https://raw.githubusercontent.com/pyoncord/detta-builds/main/bunny.js"
 
       // gedetta thedetta vendetta codetta asdetta textdetta
       const res = await fetch(url)
